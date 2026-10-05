@@ -37,7 +37,7 @@ This web application deployed with Heroku (www.heroku.com) - you can view a live
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Object-ions/support-ticket-system.git
+   git clone https://github.com/switchcasestudio/support-ticket-system.git
    cd support-ticket-system
    ```
 2. Install backend dependencies:
